@@ -1,0 +1,1 @@
+5.1 SELECT Authors.authorId, Authors.authorId FROM Authors UNION SELECT Books.title, Books.year FROM Books;
